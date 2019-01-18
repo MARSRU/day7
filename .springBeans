@@ -9,6 +9,7 @@
 	<configs>
 		<config>src/bean-arithmetic.xml</config>
 		<config>src/bean-xml-arithmetic.xml</config>
+		<config>src/abc.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
